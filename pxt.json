@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-soroban": "workspace:2de1ae55-a715-42ab-de86-51b15e06d88e"
     },
     "files": [
         "README.md",
@@ -13,5 +14,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "installedVersion": "workspace:2de1ae55-a715-42ab-de86-51b15e06d88e"
 }
