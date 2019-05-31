@@ -1,6 +1,6 @@
-//% weight=70 icon="\uf1ec" color=#00bbd7 block="そろばん2"
+//% weight=70 icon="\uf1ec" color=#00bbd7 block="そろばん"
 namespace soroban {
-    //% blockId=show_number block="かずを ひょうじ %num"
+    //% blockId=show_number block="数を 表示 %num"
     export function showNumber(num: number = 0): void {
         let n = num
         for (let y = 1; y < 5; y++) {
