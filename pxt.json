@@ -4,8 +4,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "pxt-soroban": "workspace:2de1ae55-a715-42ab-de86-51b15e06d88e"
+        "radio": "*"
     },
     "files": [
         "README.md",
