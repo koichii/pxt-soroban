@@ -1,6 +1,6 @@
 # pxt-soroban
 
-
+You can show the number as Soroban.
 
 ## TODO
 
